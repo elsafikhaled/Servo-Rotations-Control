@@ -5,3 +5,4 @@ HardWare: TM4C123H6PM with ArmCortex m4 processor.
           NOKIA5110 LCD to display servo Angle 0>>180 degree and connected to uC via SPI.
           
       OS: FreeRTOS
+https://www.youtube.com/channel/UC0b5RYkpkbD5ARSOHVr6kVg?view_as=subscriber
